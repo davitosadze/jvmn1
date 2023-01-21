@@ -1,0 +1,6 @@
+2023-01-20 22:11:25 INFO  Payment:18 - კომუნალურები გახადილია:Electricity{customerNumber=Electricity, amount=5.0}
+2023-01-20 22:11:25 INFO  Payment:18 - კომუნალურები გახადილია:Water{customerNumber=Water, amount=32.1}
+2023-01-20 22:11:50 INFO  Payment:18 - Electricity{customerNumber=Electricity, amount=5.0}
+2023-01-20 22:11:50 INFO  Payment:18 - Water{customerNumber=Water, amount=32.1}
+2023-01-21 21:38:32 INFO  Payment:18 - Electricity{customerNumber=Electricity, amount=5.0}
+2023-01-21 21:38:32 INFO  Payment:18 - Water{customerNumber=Water, amount=32.1}
